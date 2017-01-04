@@ -1,0 +1,76 @@
+#,Nama,Sekolah,Provinsi,Total,1A,1B,1C,2A,2B,2C
+1,Sergio Vieri,SMA Intan Permata Hati,Jawa Timur,555,100,55,100,100,100,100
+2,Windi Chandra,SMA Santu Petrus Pontianak,Kalimantan Barat,474,100,55,47,72,100,100
+3,Kwee Lung Sin,SMA Karangturi Semarang,Jawa Tengah,401,100,55,58,72,100,16
+4,Norman Bintang,SMAN 4 Denpasar,Bali,384,34,55,23,72,100,100
+5,Kevin Arimetta Tionanda,SMAK BPK PENABUR Gading Serpong,Banten,378,100,0,47,31,100,100
+6,Muhammad Yusuf Sholeh,SMA Al Irsyad Purwokerto,Jawa Tengah,375,34,55,14,72,100,100
+7,Ensof Barhami,SMA Kharisma Bangsa,Banten,306,49,55,14,72,100,16
+8,Andreas Cendranata,SMAK 3 BPK PENABUR Jakarta,DKI Jakarta,302,49,26,47,72,61,47
+9,Ferro Geraldi Hardian,SMA Pribadi BBS Depok,Jawa Barat,288,100,0,0,72,100,16
+10,Tirta Abimanyu Purnomo,SMAN 1 Bogor,Jawa Barat,287,49,36,35,72,48,47
+11,Daniel Alfred Widjaja,SMAK BPK PENABUR Gading Serpong,Banten,281,12,45,58,58,61,47
+12,Firman Hadi Prayoga,SMAN 1 Depok,Jawa Barat,276,49,55,23,72,61,16
+13,Muhammad Ashlah S.,MAN Insan Cendekia Gorontalo,Gorontalo,268,100,36,26,58,48,
+14,Fata Nugraha,MAN 3 Malang,Jawa Timur,266,49,36,14,72,48,47
+15,Ilham Aryasuta J.,SMA Pribadi BBS Bandung,Jawa Barat,254,49,55,14,72,48,16
+16,Pnd Kt Cahya Nugraha,SMAN 3 Denpasar,Bali,251,37,26,35,58,48,47
+17,Kezia Sulami,SMP IPEKA Sunter Jakarta,DKI Jakarta,242,12,36,14,72,61,47
+18,Muh Ridho Ananda,SMA Pribadi BBS Bandung,Jawa Barat,241,12,55,35,31,61,47
+19,Degoldie Sonny,SMAN 33 Jakarta,DKI Jakarta,238,49,9,58,58,48,16
+20,Usama,SMAN 5 Surabaya,Jawa Timur,235,49,36,14,72,48,16
+21,Muhammad Indra R.,SMAN 34 Jakarta,DKI Jakarta,227,12,,35,72,61,47
+22,Steven Sean Hoedison W.,SMA Karangturi Semarang,Jawa Tengah,222,49,16,35,58,48,16
+23,Endrawan Andika W.,SMAN 3 Semarang,Jawa Tengah,220,100,0,,72,48,
+24,Ridho Pratama,SMAN 1 Bukittinggi,Sumatera Barat,219,12,26,14,72,48,47
+24,Steven Kusuman,SMAN 4 Denpasar,Bali,219,49,36,14,72,48,
+26,Reynaldo Wijaya Hendry,SMA Maitreyawira Batam,Kepulauan Riau,213,34,26,58,31,48,16
+27,Yonas Adiel Wiguna,SMA Kolese Loyola Semarang,Jawa Tengah,210,12,36,26,72,48,16
+28,Suhendi,SMA Methodist 3 Medan,Sumatera Utara,204,49,19,14,58,48,16
+29,Novi Adri,SMAN 1 Sumatera Barat,Sumatera Barat,190,12,16,23,31,61,47
+30,Christian Shiady,SMAK Petra 2 Surabaya,Jawa Timur,187,,36,15,72,48,16
+31,Muh Salman Al Farisi,SMPN 2 Pamekasan,Jawa Timur,185,49,,14,58,48,16
+32,Asyraf Humam Arrafifin,MAN Insan Cendekia Gorontalo,Gorontalo,184,12,36,14,58,48,16
+32,Dhipta Raditya Y.,SMA Kesatuan Bangsa BBS,Yogyakarta,184,12,36,14,58,48,16
+34,Asif Hummam Rais,SMAN 1 Purwokerto,Jawa Tengah,178,12,36,35,31,48,16
+35,Edwin,SMAK IPEKA Pluit Jakarta,DKI Jakarta,176,49,36,14,13,48,16
+36,Hansvin Tandi Sugata,SMA Xaverius 1 Jambi,Jambi,172,49,36,26,13,48,
+37,Wildan Fahmi Gunawan,SMAN 1 Bekasi,Jawa Barat,168,49,16,26,13,48,16
+38,Aldi Hilman Ramadhani,SMAN 2 Tangerang Selatan,Banten,166,12,36,23,31,48,16
+39,Prawiro Hadi Triyono,SMAN 2 Tangerang Selatan,Banten,162,12,26,47,13,48,16
+40,Maulana Akmal,SMAN Modal Bangsa Aceh,Aceh,161,0,16,23,58,48,16
+41,Alvin Farkhan Ramadhani,SMA Kesatuan Bangsa BBS,Yogyakarta,159,12,26,26,31,48,16
+42,Ezra Anugerah Bangun,SMAK 1 BPK PENABUR Bandung,Jawa Barat,157,12,36,14,31,48,16
+43,M. Rafli Al Khadafi,SMAN 17 Palembang,Sumatera Selatan,148,12,36,23,13,48,16
+44,A. R. Yamn,SMAN 1 Pamekasan,Jawa Timur,137,12,16,14,31,48,16
+44,Izzatul Muttaqin,SMAN 1 Balikpapan,Kalimantan Timur,137,12,16,14,31,48,16
+46,M. Hendry Prasetya,SMAN 2 Banda Lampung,Lampung,129,12,26,14,13,48,16
+46,Reyhan F. Irianto,SMAN 1 Padang Panjang,Sumatera Barat,129,12,26,14,13,48,16
+48,Haniah Wafa,SMA Dwiwarna Bogor,Jawa Barat,128,,26,23,31,48,
+49,Piterson Satio,SMA Kalam Kudus,Sumatera Utara,120,12,16,23,5,48,16
+50,Arya Seta Wicaksana,SMAN Banua Kalsel BBS,Kalimantan Selatan,119,12,16,14,13,48,16
+50,Aulia Nur Adib Phasya,SMA Kharisma Bangsa,Banten,119,12,16,14,13,48,16
+52,Serano Tannason,SMA Bina Bangsa,DKI Jakarta,116,12,19,14,,,71
+53,Fadhil Musaad,SMAN 2 Tinggimoncong,Sulawesi Selatan,114,5,,14,31,48,16
+54,Nadhira Salsabila,SMAN Mh Thamrin Jakarta,DKI Jakarta,113,12,26,14,13,48,0
+55,Margaret Tanjung C.,SMA Semesta Semarang,Jawa Tengah,110,,26,23,13,48,
+56,Ahmad Fahmi Pratama,MAN Insan Cendekia Serpong,Banten,109,5,26,14,0,48,16
+57,Irsyad Lutfi Elfahmi,MAN 3 Malang,Jawa Timur,106,12,16,14,0,48,16
+57,Nabila Rahmadani,SMAN 5 Bengkulu,Bengkulu,106,12,16,14,0,48,16
+59,Satrio Sulaksono,SMAN 1 Matauli Pandan,Sumatera Utara,99,12,9,14,0,48,16
+60,Kevin Liyansah,SMAN 1 Tarakan,Kalimantan Utara,90,12,,14,0,48,16
+61,Fathur Rachman Husein,SMA Kusuma Bangsa Palembang,Sumatera Selatan,88,0,16,,8,48,16
+62,Andika Rahim Darusalam,SMAN 1 Kendari,Sulawesi Tenggara,84,7,0,,13,48,16
+63,Magfirah Nursaphira A.,SMAN Model Terpadu Madani Palu,Sulawesi Tengah,78,0,0,14,0,48,16
+64,Rizal Akbar Komarudin,SMA Averos Kota Sorong,Papua Barat,64,7,0,14,13,14,16
+65,I Nym Hery Sumertayasa,SMAN 1 Mengwi,Bali,61,,,,13,48,0
+66,Della Herli Rahman,SMAN 1 Tualang,Riau,51,7,0,14,0,14,16
+67,Maylan Triana Pidi,SMAN 3 Kota Kupang,Nusa Tenggara Timur,44,0,,14,,14,16
+68,Patrisio,SMA Santo Yosef,Bangka Belitung,27,5,0,,0,6,16
+69,Josua Waraney Supit,SMAN 1 Tondano,Sulawesi Utara,26,12,0,14,0,,
+69,Sulaeman,SMAN 1 Topoyo,Sulawesi Barat,26,12,0,14,0,,
+71,Anggoro Adi Negoro,SMAN 3 Merauke,Papua,23,7,,,8,8,
+72,Magfirah Nahda Latupono,SMAN 2 Masohi,Maluku,16,0,,,0,,16
+73,Fakhry Nur Mahmudi,SMAN 1 Selong,Nusa Tenggara Barat,14,0,0,14,0,,
+74,Satrio Cipto,SMAN 2 Sampit,Kalimantan Tengah,7,7,,,0,,
+75,Irfan M. Gapi,SMAN 1 Ternate,Maluku Utara,0,0,,,0,,
