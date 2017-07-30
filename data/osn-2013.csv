@@ -1,97 +1,97 @@
-#,Nama,Provinsi,Total,1A,1B,1C,1D,2A,2B,2C,2D
-1,Alfonsus Raditya Arsadjaja,D. K. I. Jakarta,654,100,100,69,2,100,100,83,100
-2,Muhammad Rais Fathin Mudzakir,Jawa Barat,601,100,100,100,1,100,100,0,100
-3,Christian Anthony Setyawan,Banten,549,72,100,69,46,64,50,48,100
-4,Aulia Astrico Pratama,Bali,525,31,100,46,0,100,100,48,100
-5,Michael Wibawa,D.K.I. Jakarta,503,31,100,69,3,100,100,0,100
-6,Gentur Waskito Triwinasis,Jawa Tengah,469,0,100,69,0,100,100,0,100
-7,Alvian Prasetya,Banten,460,100,35,69,0,100,50,48,58
-8,Ervin,D.K.I. Jakarta,449,24,35,69,3,100,100,18,100
-9,Evan Putra Limanto,D.K.I. Jakarta,442,31,18,46,0,64,100,83,100
-10,Zamil Majdy,Jawa Tengah,436,0,100,69,0,67,100,0,100
-11,Anthony,D.K.I. Jakarta,428,7,100,69,2,100,50,0,100
-12,Nathan James Runtuwene,D.K.I. Jakarta,426,20,35,18,3,67,100,83,100
-13,Alva Thomson,Jambi,416,20,18,69,0,100,100,9,100
-14,Raja Bagus Arief Rahman,Jawa Tengah,405,7,100,69,7,31,50,83,58
-15,I Gusti Ngurah Putra Sattvika,Bali,388,0,62,46,3,100,29,48,100
-16,Bambang Wisanggeni D.N.S,Jawa Tengah,377,31,100,18,3,67,100,0,58
-17,Robert Sebastian Herlim,Jawa Timur,372,7,18,46,3,100,50,48,100
-18,M Adnan Reza W,Jawa Barat,371,31,35,46,0,100,100,25,34
-19,Umar Alfarouk,Jawa Barat,371,0,62,29,0,51,29,100,100
-20,Agus Sentosa Hermawan,Jawa Timur,368,0,100,69,3,67,29,0,100
-21,Muhammad Ayaz Dzulfikar,Kalimantan Timur,361,7,62,69,5,18,100,0,100
-22,Yudi Reza Phallaphi,Aceh,352,7,62,46,0,87,50,0,100
-23,Wynne Wijaya,Sulawesi Selatan,343,7,62,69,0,100,29,18,58
-24,Muhammad Zaky Khairuddin,Kalimantan Timur,305,20,35,18,46,51,29,48,58
-25,Hafizh Afkar Makmur,Banten,304,13,35,46,3,31,100,18,58
-26,Mohammad Iqbal K G,Jawa Tengah,296,13,0,69,0,67,29,18,100
-27,Joshua Casey Darian,Jawa Timur,287,0,18,46,7,18,50,48,100
-28,Joshua A K,Jawa Barat,279,7,18,29,0,67,100,0,58
-29,Andi,Sumatera Utara,262,0,100,18,3,54,29,0,58
-30,Chalvin,Sumatera Utara,246,7,0,46,0,64,29,0,100
-31,Kevin Jonathan,Jawa Barat,244,31,18,18,46,31,100,0,0
-32,Wira Abdillah Siregar,Aceh,233,20,0,18,0,59,100,18,18
-33,Ryorda Triaptahadi,D.K.I. Jakarta,230,72,0,29,0,0,29,0,100
-34,Febrian Wilson,Jambi,227,13,0,29,2,54,29,0,100
-35,Adzka Muhammad Mumtaz,Banten,227,72,0,18,0,31,0,48,58
-36,Hans Darmaputra,D.K.I. Jakarta,219,31,18,18,4,18,29,83,18
-37,Kustiawanto Halim,Sumatera Barat,206,24,18,46,0,23,29,48,18
-38,Ade Yusuf Rahardian,Jawa Tengah,198,13,18,18,2,18,29,0,100
-39,Salsabila Nadhifah,Jawa Barat,193,0,18,18,0,31,50,18,58
-40,Aldi Fahrezi,Jawa Barat,190,48,0,46,0,67,29,0,0
-41,Edwin Handoko,Kalimantan Barat,189,24,18,18,1,23,29,18,58
-42,Stacia Edina Johanna,Jawa Timur,185,0,18,0,0,67,0,0,100
-43,Wahyu Febryanto,Kalimantan Timur,185,31,0,18,0,31,29,18,58
-44,Arif Fitrianto,D. I. Yogyakarta,179,7,18,18,0,31,29,18,58
-45,Yan Ruzika Achmad Z,Jawa Timur,170,20,18,18,0,18,29,9,58
-46,Dzar Bela Hanifa,D.I. Yogyakarta,166,7,18,18,0,18,29,18,58
-47,Septasia Dwi Angfika,D.I. Yogyakarta,166,7,18,18,0,18,29,18,58
-48,Josua Aditya Mustiko,Sulawesi Utara,156,20,0,29,2,18,29,0,58
-49,David Christanto,Jawa Timur,154,100,0,18,0,18,0,0,18
-50,Muhammad Imaduddin Abd Rahim,Jawa Timur,154,0,0,18,0,18,100,0,18
-51,Conroy Surya Wijaya,D.I. Yogyakarta,152,20,18,18,0,31,29,18,18
-52,Kevin Fernando,Sulawesi Selatan,150,7,18,18,0,31,0,18,58
-53,Ricky Sentoso,Sumatera Selatan,147,24,18,29,0,31,9,18,18
-54,Tutla Ayatullah,Gorontalo,147,0,9,18,3,67,9,9,32
-55,M Zulfiqar Meizar P,Lampung,143,24,18,18,0,18,29,18,18
-56,Richard Maximillian A P,Jawa Tengah,140,31,18,18,0,64,9,0,0
-57,I Wayan Widarma Putra Pramana,Bali,132,13,18,18,0,18,29,18,18
-58,Jonathan Christopher,Banten,132,31,0,18,4,31,0,48,0
-59,Muhammad Ihsan Hadi,Sumatera Barat,131,0,0,9,3,18,9,0,92
-60,I Putu Arya Agung Pratama,Bali,131,0,0,18,0,18,29,48,18
-61,Heryanto,Kep. Riau,129,13,26,29,4,31,9,9,8
-62,William Perdana Kwandou,Sulawesi Selatan,128,24,18,18,3,18,29,0,18
-63,Akhmad Rafiqi,Kalimantan Selatan,119,0,18,18,0,18,29,18,18
-64,Nur Latifah Ulfah,Jawa Tengah,115,20,0,18,3,18,29,9,18
-65,Novenia Meglim,Kalimantan Barat,109,24,0,18,0,31,0,18,18
-66,Asdi Restana,Kalimantan Timur,107,24,18,18,0,18,29,0,0
-67,Muhammad Reza Arifandie,Jawa Timur,102,13,0,0,0,31,0,0,58
-68,Mei Rusfandi,Lampung,101,0,0,18,0,18,29,18,18
-69,Imam Ghazali Yasmint,Lampung,101,0,0,18,0,18,29,18,18
-70,Dedy van Hauten,Kep. Bangka Belitung,98,0,0,18,4,31,9,18,18
-71,Muhammad Saiful Islam,Jawa Barat,97,0,0,29,3,18,29,18,0
-72,Stevan Giano Putra,Sumatera Selatan,94,13,0,18,0,18,9,18,18
-73,Ricky Chandra,Sumatera Utara,94,0,0,18,0,31,9,18,18
-74,Fadhilah Khairuna Larasati,D.I. Yogyakarta,92,20,0,18,0,18,9,9,18
-75,Dessia Nur Aulia Putri,Sumatera Barat,90,7,0,18,0,0,29,18,18
-76,Shandy Darma,Kalimantan Timur,87,7,0,18,3,31,0,18,10
-77,Pandito Hudiarso A.R.S,Riau,87,24,0,18,0,18,9,0,18
-78,Lie Maximilianus M K ,Jawa Tengah,86,7,0,18,3,18,0,0,40
-79,Daniel Kevin Kusuman,Bali,81,0,0,18,0,18,9,18,18
-80,Muftihatul Khair,Sulawesi Tenggara,67,13,0,18,0,18,0,0,18
-81,Tri Yunianta,D.I. Yogyakarta,66,0,18,18,3,18,9,0,0
-82,Ega Rifqi Saputra,Jawa Timur,65,20,18,0,0,18,9,0,0
-83,M Yusuf Imam Itsari,Jawa Barat,63,0,0,18,0,18,9,0,18
-84,Ahmad Risal,Gorontalo,54,0,0,18,0,18,0,18,0
-85,Andre Onggara,Sulawesi Tengah,46,0,0,18,0,18,0,0,10
-86,Reza Rahmadani,Bengkulu,45,0,0,18,0,18,0,9,0
-87,Muhammad Rizal W A,Nusa Tenggara Barat,18,0,0,0,0,18,0,0,0
-88,Ramadhan Lenggu Ramli,Nusa Tenggara Timur,18,0,0,0,0,18,0,0,0
-89,Ruth Emmanuella Waterpauw,Papua,18,0,0,0,0,18,0,0,0
-90,Nizma Triana,Maluku Utara,18,0,0,0,0,18,0,0,0
-91,Puji Hasworo,Kalimantan Tengah,18,0,0,0,0,18,0,0,0
-92,Muh Sarwan Nur Akbar,Sulawesi Barat,18,0,0,0,0,18,0,0,0
-93,Nur Imron Suyuti,Papua Barat,6,0,0,0,0,6,0,0,0
-94,Hafizul Haq,Sumatera Barat,0,0,0,0,0,0,0,0,0
-95,Steven Palondongan,Sulawesi Tenggara,0,0,0,0,0,0,0,0,0
-96,Vigo Yano Sahertian,Maluku Utara,0,0,0,0,0,0,0,0,0
+#,Nama,Sekolah,Provinsi,Total,1A,1B,1C,1D,2A,2B,2C,2D
+1,Alfonsus Raditya Arsadjaja,SMA Kanisius Jakarta,D.K.I. Jakarta,654,100,100,69,2,100,100,83,100
+2,Muhammad Rais Fathin Mudzakir,SMAN 1 Bogor,Jawa Barat,601,100,100,100,1,100,100,0,100
+3,Christian Anthony Setyawan,SMA BPK Penabur Gading Serpong,Banten,549,72,100,69,46,64,50,48,100
+4,Aulia Astrico Pratama,SMAN 10 Samarinda,Kalimantan Timur,525,31,100,46,0,100,100,48,100
+5,Michael Wibawa,SMA Kanisius Jakarta,D.K.I. Jakarta,503,31,100,69,3,100,100,0,100
+6,Gentur Waskito Triwinasis,SMAN Sragen BBS,Jawa Tengah,469,0,100,69,0,100,100,0,100
+7,Alvian Prasetya,SMA Santa Laurensia,Banten,460,100,35,69,0,100,50,48,58
+8,Ervin,SMAK 5 BPK Penabur Jakarta,D.K.I. Jakarta,449,24,35,69,3,100,100,18,100
+9,Evan Putra Limanto,SMA Bina Bangsa Jakarta,D.K.I. Jakarta,442,31,18,46,0,64,100,83,100
+10,Zamil Majdy,SMA Semesta Semarang,Jawa Tengah,436,0,100,69,0,67,100,0,100
+11,Anthony,SMAK 5 BPK Penabur Jakarta,D.K.I. Jakarta,428,7,100,69,2,100,50,0,100
+12,Nathan James Runtuwene,SMAK 1 BPK Penabur Jakarta,D.K.I. Jakarta,426,20,35,18,3,67,100,83,100
+13,Alva Thomson,SMA Xaverius 1 Jambi,Jambi,416,20,18,69,0,100,100,9,100
+14,Raja Bagus Arief Rahman,SMAN 2 Purwokerto,Jawa Tengah,405,7,100,69,7,31,50,83,58
+15,I Gusti Ngurah Putra Sattvika,SMAN 3 Denpasar,Bali,388,0,62,46,3,100,29,48,100
+16,Bambang Wisanggeni D.N.S,SMAN 2 Purwokerto,Jawa Tengah,377,31,100,18,3,67,100,0,58
+17,Robert Sebastian Herlim,SMA Petra 2 Surabaya,Jawa Timur,372,7,18,46,3,100,50,48,100
+18,M Adnan Reza W,SMA Pribadi Bandung,Jawa Barat,371,31,35,46,0,100,100,25,34
+19,Umar Alfarouk,SMP Pribadi Bandung,Jawa Barat,371,0,62,29,0,51,29,100,100
+20,Agus Sentosa Hermawan,SMA Petra 2 Surabaya,Jawa Timur,368,0,100,69,3,67,29,0,100
+21,Muhammad Ayaz Dzulfikar,SMA YPVDV Bontang,Kalimantan Timur,361,7,62,69,5,18,100,0,100
+22,Yudi Reza Phallaphi,SMA Fatih Bilingual School,Aceh,352,7,62,46,0,87,50,0,100
+23,Wynne Wijaya,SMA Katolik Rajawali,Sulawesi Selatan,343,7,62,69,0,100,29,18,58
+24,Muhammad Zaky Khairuddin,SMAN 1 Balikpapan,Kalimantan Timur,305,20,35,18,46,51,29,48,58
+25,Hafizh Afkar Makmur,MAN Insan Cendikia Serpong,Banten,304,13,35,46,3,31,100,18,58
+26,Mohammad Iqbal K G,SMAN Sragen BBS,Jawa Tengah,296,13,0,69,0,67,29,18,100
+27,Joshua Casey Darian,SMA St Louis 1 Surabaya,Jawa Timur,287,0,18,46,7,18,50,48,100
+28,Joshua A K,SMA Santo Aloysius 2 Bandung,Jawa Barat,279,7,18,29,0,67,100,0,58
+29,Andi,SMA Sutomo 2 Medan,Sumatera Utara,262,0,100,18,3,54,29,0,58
+30,Chalvin,SMA Methodist 2 Medan,Sumatera Utara,246,7,0,46,0,64,29,0,100
+31,Kevin Jonathan,SMAK 1 BPK Penabur Bandung,Jawa Barat,244,31,18,18,46,31,100,0,0
+32,Wira Abdillah Siregar,SMA Fatih Bilingual School,Aceh,233,20,0,18,0,59,100,18,18
+33,Ryorda Triaptahadi,SMAN 8 Jakarta,D.K.I. Jakarta,230,72,0,29,0,0,29,0,100
+34,Febrian Wilson,SMA Xaverius 1 Jambi,Jambi,227,13,0,29,2,54,29,0,100
+35,Adzka Muhammad Mumtaz,MAN Insan Cendikia Serpong,Banten,227,72,0,18,0,31,0,48,58
+36,Hans Darmaputra,SMAK 7 BPK Penabur Jakarta,D.K.I. Jakarta,219,31,18,18,4,18,29,83,18
+37,Kustiawanto Halim,SMAN 1 Payakumbuh,Sumatera Barat,206,24,18,46,0,23,29,48,18
+38,Ade Yusuf Rahardian,SMAN 1 Bondowoso,Jawa Tengah,198,13,18,18,2,18,29,0,100
+39,Salsabila Nadhifah,SMAN 1 Depok,Jawa Barat,193,0,18,18,0,31,50,18,58
+40,Aldi Fahrezi,SMAN 1 Depok,Jawa Barat,190,48,0,46,0,67,29,0,0
+41,Edwin Handoko,SMA Santu Petrus Pontianak,Kalimantan Barat,189,24,18,18,1,23,29,18,58
+42,Stacia Edina Johanna,SMP Petra 2 Surabaya,Jawa Timur,185,0,18,0,0,67,0,0,100
+43,Wahyu Febryanto,SMAN 1 Tarakan,Kalimantan Timur,185,31,0,18,0,31,29,18,58
+44,Arif Fitrianto,SMAN 1 Bantul,D. I. Yogyakarta,179,7,18,18,0,31,29,18,58
+45,Yan Ruzika Achmad Z,SMAN 1 Bululawang Malang,Jawa Timur,170,20,18,18,0,18,29,9,58
+46,Dzar Bela Hanifa,SMAN 3 Yogyakarta,D.I. Yogyakarta,166,7,18,18,0,18,29,18,58
+47,Septasia Dwi Angfika,SMA Kesatuan Bangsa,D.I. Yogyakarta,166,7,18,18,0,18,29,18,58
+48,Josua Aditya Mustiko,SMAN 9 Binsus Manado,Sulawesi Utara,156,20,0,29,2,18,29,0,58
+49,David Christanto,SMA Kolese St Yusup Malang,Jawa Timur,154,100,0,18,0,18,0,0,18
+50,Muhammad Imaduddin Abd Rahim,SMAN 1 Kebomas,Jawa Timur,154,0,0,18,0,18,100,0,18
+51,Conroy Surya Wijaya,SMAN 8 Yogyakarta,D.I. Yogyakarta,152,20,18,18,0,31,29,18,18
+52,Kevin Fernando,SMA Katolik Rajawali,Sulawesi Selatan,150,7,18,18,0,31,0,18,58
+53,Ricky Sentoso,SMA Kusuma Bangsa,Sumatera Selatan,147,24,18,29,0,31,9,18,18
+54,Tutla Ayatullah,MAN Insan Cendikia Gorontalo,Gorontalo,147,0,9,18,3,67,9,9,32
+55,M Zulfiqar Meizar P,SMAN 2 Bandarlampung,Lampung,143,24,18,18,0,18,29,18,18
+56,Richard Maximillian A P,SMA Karangturi,Jawa Tengah,140,31,18,18,0,64,9,0,0
+57,I Wayan Widarma Putra Pramana,SMAN 4 Denpasar,Bali,132,13,18,18,0,18,29,18,18
+58,Jonathan Christopher,SMA BPK Penabur Gading Serpong,Banten,132,31,0,18,4,31,0,48,0
+59,Muhammad Ihsan Hadi,SMAN 10 Padang,Sumatera Barat,131,0,0,9,3,18,9,0,92
+60,I Putu Arya Agung Pratama,SMAN 1 Tabanan,Bali,131,0,0,18,0,18,29,48,18
+61,Heryanto,SMAN 1 Tanjungpinang,Kep. Riau,129,13,26,29,4,31,9,9,8
+62,William Perdana Kwandou,SMA Dian Harapan,Sulawesi Selatan,128,24,18,18,3,18,29,0,18
+63,Akhmad Rafiqi,SMAN 1 Pelaihari,Kalimantan Selatan,119,0,18,18,0,18,29,18,18
+64,Nur Latifah Ulfah,SMAN 1 Kebumen,Jawa Tengah,115,20,0,18,3,18,29,9,18
+65,Novenia Meglim,SMA Santu Petrus Pontianak,Kalimantan Barat,109,24,0,18,0,31,0,18,18
+66,Asdi Restana,SMAN 1 Balikpapan,Kalimantan Timur,107,24,18,18,0,18,29,0,0
+67,Muhammad Reza Arifandie,SMAN 1 Sidoarjo,Jawa Timur,102,13,0,0,0,31,0,0,58
+68,Mei Rusfandi,SMAN 1 Gadingrejo,Lampung,101,0,0,18,0,18,29,18,18
+69,Imam Ghazali Yasmint,SMA Al Kautsar,Lampung,101,0,0,18,0,18,29,18,18
+70,Dedy van Hauten,SMA Santo Yosef Pangkalpinang,Kep. Bangka Belitung,98,0,0,18,4,31,9,18,18
+71,Muhammad Saiful Islam,SMAN 2 Bandung,Jawa Barat,97,0,0,29,3,18,29,18,0
+72,Stevan Giano Putra,SMA Kusuma Bangsa,Sumatera Selatan,94,13,0,18,0,18,9,18,18
+73,Ricky Chandra,SMA Methodist 2 Medan,Sumatera Utara,94,0,0,18,0,31,9,18,18
+74,Fadhilah Khairuna Larasati,SMAN 3 Yogyakarta,D.I. Yogyakarta,92,20,0,18,0,18,9,9,18
+75,Dessia Nur Aulia Putri,SMAN 1 Padang Panjang,Sumatera Barat,90,7,0,18,0,0,29,18,18
+76,Shandy Darma,SMAN 10 Samarinda,Kalimantan Timur,87,7,0,18,3,31,0,18,10
+77,Pandito Hudiarso A.R.S,SMAN Plus Provinsi Riau,Riau,87,24,0,18,0,18,9,0,18
+78,Lie Maximilianus M K ,SMA Karangturi,Jawa Tengah,86,7,0,18,3,18,0,0,40
+79,Daniel Kevin Kusuman,SMAN 1 Denpasar,Bali,81,0,0,18,0,18,9,18,18
+80,Muftihatul Khair,SMAN 1 Kendari,Sulawesi Tenggara,67,13,0,18,0,18,0,0,18
+81,Tri Yunianta,SMAN 8 Yogyakarta,D.I. Yogyakarta,66,0,18,18,3,18,9,0,0
+82,Ega Rifqi Saputra,SMAN 1 Situbondo,Jawa Timur,65,20,18,0,0,18,9,0,0
+83,M Yusuf Imam Itsari,SMA IT Albinaa IBS,Jawa Barat,63,0,0,18,0,18,9,0,18
+84,Ahmad Risal,MAN Insan Cendikia Gorontalo,Gorontalo,54,0,0,18,0,18,0,18,0
+85,Andre Onggara,SMAN Model Terpadu Madani,Sulawesi Tengah,46,0,0,18,0,18,0,0,10
+86,Reza Rahmadani,SMAN 1 Curup,Bengkulu,45,0,0,18,0,18,0,9,0
+87,Muhammad Rizal W A,SMAN 1 Dompu,Nusa Tenggara Barat,18,0,0,0,0,18,0,0,0
+88,Ramadhan Lenggu Ramli,SMAN 3 Kupang,Nusa Tenggara Timur,18,0,0,0,0,18,0,0,0
+89,Ruth Emmanuella Waterpauw,SMAN 5 Jayapura,Papua,18,0,0,0,0,18,0,0,0
+90,Nizma Triana,SMAN 1 Bacan,Maluku Utara,18,0,0,0,0,18,0,0,0
+91,Puji Hasworo,SMAN 1 Sematu Jaya,Kalimantan Tengah,18,0,0,0,0,18,0,0,0
+92,Muh Sarwan Nur Akbar,SMAN 1 Majene,Sulawesi Barat,18,0,0,0,0,18,0,0,0
+93,Nur Imron Suyuti,SMA Averos Sorong,Papua Barat,6,0,0,0,0,6,0,0,0
+94,Hafizul Haq,SMAN 1 Padang Panjang,Sumatera Barat,0,0,0,0,0,0,0,0,0
+95,Steven Palondongan,SMAN 1 Kendari,Sulawesi Tenggara,0,0,0,0,0,0,0,0,0
+96,Vigo Yano Sahertian,SMAN 8 Ambon,Maluku,0,0,0,0,0,0,0,0,0
