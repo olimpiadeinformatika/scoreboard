@@ -1,0 +1,91 @@
+#,Nama,Provinsi,1A,1B,1C,1D,2A,2B,2C,2D,Total
+1,Ammar Fathin Sabili,Jawa Tengah,100,100,100,0,50,20,21,18,409
+2,Pusaka Kaleb Setyabudi,Jawa Barat,45,20,40,0,100,100,36,18,359
+3,Vincent Sebastian The,Banten,10,20,40,50,50,100,36,38,344
+4,Rakina Zata Amni,Jakarta,15,10,70,50,30,100,36,18,329
+5,Stefano Chiesa Suryanto,Jakarta,45,20,30,0,40,100,36,18,289
+6,Nur Hidayat,Jawa Barat,0,27,0,0,40,100,36,18,221
+6,Peter,Sumatera Utara,45,27,25,0,50,20,36,18,221
+8,Ignatius Juan Pradipta,Lampung,45,27,30,0,40,20,36,18,216
+9,Dikaimin,Kepulauan Riau,45,20,40,0,30,20,36,18,209
+10,Wisnu,Jawa Tengah,45,20,30,0,30,20,21,39,205
+11,Christian Anthony Setyawan,Banten,15,27,15,30,40,20,36,18,201
+12,Alfian Rismawan,Yogyakarta,45,20,25,0,30,20,36,18,194
+13,Aulia Astrico Pratama,Kalimantan Timur,30,20,40,0,40,20,21,18,189
+14,Rizki Mubarok,Jawa Barat,45,27,0,0,40,20,36,18,186
+15,Alfonsus Raditya Arsadjaja,Jakarta,45,20,30,0,30,20,21,18,184
+15,Alvian Prasetya,Banten,30,20,30,0,30,20,36,18,184
+15,Alvin Tanudjaja,Jawa Timur,45,20,30,0,30,20,21,18,184
+18,Muhammad Zuhri,Jawa Timur,30,20,30,30,30,0,21,18,179
+19,Anthony,Jambi,45,27,10,0,15,20,36,18,171
+20,Rina Halim,Jambi,45,20,10,0,40,0,36,18,169
+20,Tehkesih Windy Suwarno,Sumatera Selatan,30,20,30,0,30,20,21,18,169
+20,Willson Wijaya,Jakarta,45,20,0,0,50,0,36,18,169
+23,Dewangga Winasforcepta Winardi,Bali,45,20,10,0,30,20,21,18,164
+23,Kenrick,Sumatera Utara,45,20,10,0,30,20,21,18,164
+23,Muhammad Rais Fathin Mudzakir,Jawa Barat,30,20,30,30,15,0,21,18,164
+26,Arianto Wibowo,Jawa Timur,30,20,30,0,30,10,21,18,159
+26,Tri Ahmad Irfan,Jawa Tengah,15,10,40,0,40,0,36,18,159
+28,Ibrohim Kholilul Islam,Gorontalo,0,10,0,0,30,0,36,81,157
+29,Anthony Prasetyo Tjio,Sulawesi Selatan,30,20,0,0,30,20,36,18,154
+29,Arnold Ardianto,Jakarta,30,20,10,0,40,0,36,18,154
+29,Ferdinand Antonius,Jakarta,45,20,0,0,30,20,21,18,154
+29,Ken Nabila Setya,Sumatera Selatan,30,20,15,0,30,20,21,18,154
+29,Richard Anthony Boentaran,Kepulauan Bangka Belitung,30,20,15,0,30,20,21,18,154
+34,Yudi Reza Phallaphi,Aceh,30,20,10,15,40,20,0,18,153
+35,Putra Muttaqin,Aceh,45,10,10,0,30,0,36,18,149
+36,Bardan Putra Prananto,Jawa Barat,30,20,30,0,30,20,0,18,148
+36,Muhamad Rasyad Arkan Lahino,Jakarta,45,20,15,0,30,20,0,18,148
+38,Ahmad Mutafakkir Alam,Jawa Timur,30,20,10,0,30,0,36,18,144
+38,Hans Christian,Jawa Barat,30,10,15,0,30,20,21,18,144
+38,Raja Bagus Arief Rahman,Jawa Tengah,30,10,10,0,30,10,36,18,144
+38,Vincent Immanuel,Jakarta,45,20,10,0,30,0,21,18,144
+42,Irzan Trisna,Kalimantan Timur,30,20,0,0,30,20,21,18,139
+42,M Zulfiqar Meizar P,Lampung,30,20,0,0,30,20,21,18,139
+42,Zamil Majdy,Jawa Tengah,45,10,0,0,30,0,36,18,139
+45,Farel Geary Witera,Jawa Timur,45,10,30,0,30,0,21,0,136
+46,Julio Anthony Leonard,Sulawesi Tengah,45,20,0,0,30,0,21,18,134
+46,Michael Ferikson Caddi,Sulawesi Selatan,0,20,0,0,40,20,36,18,134
+46,Teresa Pranyoto,Riau,45,20,0,0,30,0,21,18,134
+49,Zakiah Utami,Jawa Barat,15,20,30,0,30,20,0,18,133
+50,Sharon Lynn,Jakarta,45,20,10,0,0,0,36,18,129
+51,Felita Ariella Mustika,Sulawesi Utara,30,20,30,0,30,0,0,18,128
+52,Muh Ridwan Apriansyah B,Sulawesi Tenggara,30,10,10,0,30,20,21,0,121
+53,Ahmad Fauzul Yogiandra,Sumatera Barat,30,20,0,0,30,0,21,18,119
+54,Faizuddarain Syam,Riau,30,10,0,0,30,20,7,18,115
+55,Achmad Jeihan Pahlevi,Yogyakarta,30,10,15,0,15,0,21,18,109
+55,Erwin Chua,Kalimantan Barat,30,10,0,0,30,0,21,18,109
+55,Kevin Yauris,Maluku,30,20,0,0,0,20,21,18,109
+58,Ary Setiawan Nheu,Sulawesi Selatan,15,10,30,0,15,20,0,18,108
+59,Budi Triwibowo Yuli Widhyanto,Yogyakarta,0,20,0,0,30,0,36,18,104
+59,Mahesa Gandakusuma,Jawa Timur,0,20,0,15,15,0,36,18,104
+59,Nadia Anindita Vandari,Banten,0,10,10,0,30,0,36,18,104
+59,Radivan Luberiski,Jambi,0,20,0,0,30,0,36,18,104
+59,Rivaldi Bilaut,Nusa Tenggara Timur,0,20,0,15,30,0,21,18,104
+64,Faris Jaisyi Umam,Banten,30,10,0,0,30,0,14,18,102
+65,Annisa Riyani,Yogyakarta,15,20,10,0,15,0,21,18,99
+66,I Gusti Ngurah Adi Wicaksana,Bali,30,10,10,0,30,0,0,18,98
+67,Loria Dwi Sara,Kalimantan Tengah,0,20,0,0,30,0,21,18,89
+68,Hizky Mahar Adhiguna,Gorontalo,30,20,0,0,30,0,0,0,80
+69,Carfin,Kepulauan Riau,0,10,0,0,30,0,21,18,79
+69,Muhammad Zaky Khairuddin,Kalimantan Timur,0,10,0,0,30,0,21,18,79
+71,Grace Aprilia Cahyadi,Sulawesi Tengah,0,10,0,0,30,20,0,18,78
+72,Chalvin,Sumatera Utara,15,20,0,0,0,0,21,18,74
+73,Fikri Aulia,Riau,0,10,10,0,30,0,0,18,68
+73,Muhammad Revaldi,Bengkulu,0,20,0,0,30,0,0,18,68
+75,Fendi,Kepulauan Riau,0,10,0,0,30,20,0,0,60
+76,Firman Habib,Sumatera Barat,0,10,0,0,30,0,0,18,58
+76,Uny Madya Binti Wasio,Nusa Tenggara Barat,30,10,0,0,0,0,0,18,58
+78,Ervin Setiawan,Kalimantan Barat,0,20,0,0,15,0,0,18,53
+79,Adityo Fachrizal,Maluku Utara,0,20,0,0,30,0,0,0,50
+79,Theresia Ayomi,Papua,15,10,0,0,0,0,7,18,50
+81,Nicklas Imbiri,Papua,0,10,0,0,0,0,21,18,49
+82,Siti Setianingsih,Sulawesi Tengah,0,0,0,0,30,0,0,18,48
+82,Steffani Jessica Affandi,Yogyakarta,0,0,0,0,30,0,0,18,48
+84,Sectio Rahmad Govinda,Sumatera Barat,0,10,0,0,15,0,0,18,43
+85,Muhammad Fauzan,Sumatera Barat,0,20,0,0,15,0,7,0,42
+86,Novenia Meglim,Kalimantan Barat,0,20,0,0,15,0,0,0,35
+87,Harry Febrianto,Papua Barat,0,10,0,0,15,0,0,0,25
+88,Ahmad Ramadhan Asif,Sulawesi Tenggara,0,0,0,0,0,0,0,0,0
+88,Fathul Rahman,Sulawesi Barat,0,0,0,0,0,0,0,0,0
+88,Vishnu Dewa Putra,Kalimantan Selatan,0,0,0,0,0,0,0,0,0
